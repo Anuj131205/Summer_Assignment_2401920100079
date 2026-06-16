@@ -5,7 +5,7 @@ Building Strong Foundations in Data Structures, Algorithms & Object-Oriented Pro
 </h3>
 
 <p align="center">
-Summer Training 2025 • LeetCode • C++ • Java
+Summer Training 2025 • LeetCode • Java
 </p>
 
 ---
